@@ -40,7 +40,7 @@ export default function Navbar(props) {
               {/* <Link className="nav-link" to="/about">
                 About
               </Link> */}
-              <a className="nav-link" href="/about">
+              <a className="nav-link" href="#">
                 About
               </a>
             </li>
